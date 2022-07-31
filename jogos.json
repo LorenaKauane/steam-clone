@@ -1,0 +1,134 @@
+{
+  "altas":[
+    {
+      "name":"Rainbow Six® Siege",
+      "star":4.5,
+      "amount":"59,90",
+      "image":"/images/RainbowSixSiege.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ]
+    },
+    {
+      "name":"PUBG Battlegrounds",
+      "star":4.3,
+      "amount":"0,00",
+      "image":"/images/PUBGBattlegrounds.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows",
+        "Apple"
+      ]
+    },
+    {
+      "name":"Halo Infinite",
+      "star":4.5,
+      "amount":"0,00",
+      "image":"/images/HaloInfinite.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ]
+    },
+    {
+      "name":"God of War",
+      "star":4.9,
+      "amount":"199,90",
+      "image":"/images/GodofWar.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ],
+      "discount":"20%"
+    },
+    {
+      "name":"War Robots",
+      "star":4.9,
+      "amount":"199,90",
+      "image":"/images/WarRobots.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ],
+      "discount":"30%"
+    },
+    {
+      "name":"Red Dead Redemption II",
+      "star":4.7,
+      "amount":"199,90",
+      "image":"/images/RedDeadRedemptionII.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ],
+      "discount":"50%"
+    }
+  ],
+  "recommend":[
+    {
+      "name":"CITIES: SKYLINES",
+      "star":3.5,
+      "amount":"59,90",
+      "image":"/images/CITIES_ SKYLINES.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ],
+      "discount":"65%"
+    },
+    {
+      "name":"UNO",
+      "star":4.5,
+      "amount":"0,00",
+      "image":"/images/UNO.png",
+      "categorie":"Popular",
+      "operacionalSystem":[
+        "Windows",
+        "Apple"
+      ]
+    },
+    {
+      "name":"Project Zomboid",
+      "star":4.7,
+      "amount":"37,00",
+      "image":"/images/ProjectZomboid.png",
+      "categorie":"Popular",
+      "operacionalSystem":[
+        "Windows"
+      ]
+    },
+    {
+      "name":"Trove",
+      "star":4.9,
+      "amount":"0,00",
+      "image":"/images/Trove.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows"
+      ]
+    },
+    {
+      "name":"Fishing Planet",
+      "star":4.0,
+      "amount":"30,00",
+      "image":"/images/FishingPlanet.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows",
+        "Apple"
+      ]
+    },
+    {
+      "name":"Hollow Knight",
+      "star":4.9,
+      "amount":"30,00",
+      "image":"/images/HollowKnight.png",
+      "categorie":"Ação",
+      "operacionalSystem":[
+        "Windows",
+        "Apple"
+      ]
+    }
+  ]
+}

@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### Demo
+
+[Link here!](https://steam-clone.vercel.app/)
+
+This is a steam clone, Redesign: [Ranieri pavanato - UI UX Designer](https://ranieripavanato.webflow.io/)
+
+Tech: 
+- Next and tailwind
 
 ## Getting Started
 
